@@ -1,0 +1,11 @@
+{
+  "name": "deploy-pdf-atomic-asset",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/twilson63/deploy-pdf-atomic-asset.git",
+  "author": "Tom Wilson <tom@hyper.io>",
+  "license": "MIT",
+  "dependencies": {
+    "@bundlr-network/client": "^0.8.9"
+  }
+}
